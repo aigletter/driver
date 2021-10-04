@@ -1,0 +1,19 @@
+{
+    "name": "aigletter/driver",
+    "description": "Learning",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yurii Orlyk",
+            "email": "aigletter@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Driver\\": "src"
+        }
+    }
+}
